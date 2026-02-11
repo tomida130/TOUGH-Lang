@@ -86,7 +86,7 @@ python main.py examples\hello.tough
 ## サンプル: FizzBuzz
 
 ```
-祠部矢のコメント）FizzBuzz プログラム
+（祠部矢のコメント）FizzBuzz プログラム
 
 我が名は　尊鷹
 
