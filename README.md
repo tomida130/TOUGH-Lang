@@ -73,7 +73,7 @@ python main.py examples\hello.tough
 ## サンプル: Hello World
 
 ```
-（Hello Worldのコメント）
+（祠部矢のコメント）Hello World プログラム
 
 我が名は　尊鷹
 
@@ -86,7 +86,7 @@ python main.py examples\hello.tough
 ## サンプル: FizzBuzz
 
 ```
-（FizzBuzzのコメント）
+祠部矢のコメント）FizzBuzz プログラム
 
 我が名は　尊鷹
 
